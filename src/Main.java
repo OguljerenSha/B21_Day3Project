@@ -6,5 +6,6 @@ public class Main {
         System.out.println("i like my friends");
         System.out.println("how to be leader");
         // b21 is excited
+        // b21 is dedicated
     }
 }
